@@ -12,7 +12,7 @@ I mainly work on hobby projects, you will see them here when if i decide to post
 
 </div>
 
-- [Checkpoint system for Roblox games, contains a lot of comments to help you understand and is very easy to set up.]([docs/CONTRIBUTING.md](https://github.com/overworded/RobloxCheckpoints))
+- [Checkpoint system for Roblox games, contains a lot of comments to help you understand and is very easy to set up.](https://github.com/overworded/RobloxCheckpoints)
 - (i wanted to make a cool list thing but i dont have stuff to put here sorry)
 - Soon™
 - Soon™
