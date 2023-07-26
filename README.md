@@ -14,7 +14,7 @@ I mainly work on hobby projects, you will see them here when if i decide to post
 
 - [Checkpoint system for Roblox games, contains a lot of comments to help you understand and is very easy to set up.](https://github.com/overworded/RobloxCheckpoints)
 - [Fall damage for Roblox games, make your players suffer even more!](https://github.com/overworded/RobloxFallDamage)
-- Soon™
+- [Auto shiny/skin macro for YBA, the Jojo fighting game on Roblox.](https://github.com/overworded/Your-Bizarre-Automation/tree/main/Macro)
 - Soon™
 - Soon™
 - Soon™
