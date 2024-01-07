@@ -2,7 +2,7 @@
   
 # 🎉 Welcome to my profile 🎉
 
-18, In college for computer stuff 💻
+19, In college for computer stuff 💻
 
 I mainly work on hobby projects, you will see them here when if i decide to post them (likely not).
 
